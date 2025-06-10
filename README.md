@@ -2,9 +2,8 @@
   Hi, I'm
 	<br>
   <p>JavaScript Full-Stack Developer</p>
+	
 ## 🙋‍♂️ About Me
-
-
 As a 𝐓𝐨𝐩 𝐑𝐚𝐭𝐞𝐝‏‏‎‏‏‎‏‏‎ 🥇 developer, I specialize in crafting immersive web experiences using JavaScript, Angular, Next.js, and the MERN stack (MongoDB, Express.js, React.js, Node.js). I build dynamic, scalable, responsive web applications that elevate user engagement and performance.
 
 
