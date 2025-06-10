@@ -2,26 +2,14 @@
   Hi, I'm
 	<br>
   JavaScript Full-Stack Developer
-
+  <br>
 
 ## 🙋‍♂️ About Me
 
 
-As a 𝐓𝐨𝐩 𝐑𝐚𝐭𝐞𝐝‏‏‎‏‏‎‏‏‎ 🥇 developer with 100% 𝐉𝐨𝐛 𝐒𝐮𝐜𝐜𝐞𝐬𝐬, I specialize in crafting immersive web experiences using JavaScript, Angular, Next.js, and the MERN stack (MongoDB, Express.js, React.js, Node.js). I build dynamic, scalable, responsive web applications that elevate user engagement and performance.
+As a 𝐓𝐨𝐩 𝐑𝐚𝐭𝐞𝐝‏‏‎‏‏‎‏‏‎ 🥇 developer, I specialize in crafting immersive web experiences using JavaScript, Angular, Next.js, and the MERN stack (MongoDB, Express.js, React.js, Node.js). I build dynamic, scalable, responsive web applications that elevate user engagement and performance.
 
 <img align="right" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" height="300" width="600" />
-<br>
-
-✨ 𝑾𝒉𝒂𝒕 𝑰 𝒐𝒇𝒇𝒆𝒓 𝒚𝒐𝒖 ✨
-✅ MERN Stack: Full-stack development with MongoDB, Express.js, React.js, Node.js
-✅ Next.js: Server-side rendering and API routes for scalable web apps
-✅ Angular: Building robust, scalable, and dynamic applications with Angular
-✅ AI Integration: Enhancing apps with AI-powered features
-✅ Three.js: Crafting stunning visuals and interactive experiences
-✅ GSAP: Bringing animations to life with GreenSock
-✅ CSS & Tailwind CSS: Designing responsive interfaces with modern styling
-✅ Agile Methodologies: Iterative development for continuous improvement
-✅ Clean Code: Writing maintainable and efficient code
 <br>
 ## 🌐 Socials:
 
