@@ -4,16 +4,12 @@
   <p>JavaScript Full-Stack Developer</p>
 
 ## 🙋‍♂️ About Me
-
-
 As a 𝐓𝐨𝐩 𝐑𝐚𝐭𝐞𝐝‏‏‎‏‏‎‏‏‎ 🥇 developer, I specialize in crafting immersive web experiences using JavaScript, Angular, Next.js, and the MERN stack (MongoDB, Express.js, React.js, Node.js). I build dynamic, scalable, responsive web applications that elevate user engagement and performance.
 
 ## 🌐 Socials:
-
 [![Upwork](https://img.shields.io/badge/upwork-%2230175C2.svg?logo=Upwork&logoColor=green)](https://www.upwork.com/freelancers/~01de96b0accdaf928e)
 
 ## 💻 Tech Stack:
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=white)
