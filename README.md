@@ -2,7 +2,6 @@
   Hi, I'm
 	<br>
   <p>JavaScript Full-Stack Developer</p>
-
 ## 🙋‍♂️ About Me
 
 
