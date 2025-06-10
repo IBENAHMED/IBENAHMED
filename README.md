@@ -1,16 +1,53 @@
 ## Hi there 👋
+<h2 align="center">👋
+  Hi, I'm
+	<br>
+  JavaScript Full-Stack Developer
 
-<!--
-**IBENAHMED/IBENAHMED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+As a 𝐓𝐨𝐩 𝐑𝐚𝐭𝐞𝐝‏‏‎‏‏‎‏‏‎ 🥇 developer with 100% 𝐉𝐨𝐛 𝐒𝐮𝐜𝐜𝐞𝐬𝐬, I specialize in crafting immersive web experiences using JavaScript, Angular, Next.js, and the MERN stack (MongoDB, Express.js, React.js, Node.js). I build dynamic, scalable, responsive web applications that elevate user engagement and performance.
+
+<img align="right" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" height="300" width="600" />
+<br>
+
+✨ 𝑾𝒉𝒂𝒕 𝑰 𝒐𝒇𝒇𝒆𝒓 𝒚𝒐𝒖 ✨
+✅ MERN Stack: Full-stack development with MongoDB, Express.js, React.js, Node.js
+✅ Next.js: Server-side rendering and API routes for scalable web apps
+✅ Angular: Building robust, scalable, and dynamic applications with Angular
+✅ AI Integration: Enhancing apps with AI-powered features
+✅ Three.js: Crafting stunning visuals and interactive experiences
+✅ GSAP: Bringing animations to life with GreenSock
+✅ CSS & Tailwind CSS: Designing responsive interfaces with modern styling
+✅ Agile Methodologies: Iterative development for continuous improvement
+✅ Clean Code: Writing maintainable and efficient code
+<br>
+## 🌐 Socials:
+
+[![Upwork](https://img.shields.io/badge/upwork-%2230175C2.svg?logo=Upwork&logoColor=green)](https://www.upwork.com/freelancers/~01de96b0accdaf928e)
+
+## 💻 Tech Stack:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
+![Redux Thunk](https://img.shields.io/badge/Redux_Thunk-%23764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
+![Redux-Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-%23F3B71B.svg?style=for-the-badge&logo=React&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![HTML](https://img.shields.io/badge/XHTML-%23F58025.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS/CSS3](https://img.shields.io/badge/CSS/CSS3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![SASS/LESS](https://img.shields.io/badge/SASS/LESS-%23CC6699.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material_UI-%231976D2.svg?style=for-the-badge&logo=Material-UI&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node_JS-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=Express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%E10098.svg?style=for-the-badge&logo=GraphQL)
+![MySQL](https://img.shields.io/badge/MySQL-%4479A1.svg?style=for-the-badge&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/MongoDB-%47A248.svg?style=for-the-badge&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%336791.svg?style=for-the-badge&logo=PostgreSQL)
